@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Output data files
+data/*.json
+data/*.csv
+
+# Log files & caches
+*.log
+.cache/
